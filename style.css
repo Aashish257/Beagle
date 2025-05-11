@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 12px;
+}
+
+.header {
+    border: 1px solid black;
+    padding: 12px;
+
+}
+
+h1 {
+    font-size: 2rem;
+    text-decoration: underline;
+    margin-bottom: 22px;
+}
+
+.header a {
+    text-decoration: none;
+}
+
+.image-sec {
+    margin-bottom: 22px;
+}
+
+.image-sec img {
+    width: 300px;
+    margin-bottom: 12px;
+}
+
+.trivia {
+    margin-top: 12px;
+}
+
+.trivia ol {
+    margin-top: 12px;
+    padding: 0 18px;
+}
